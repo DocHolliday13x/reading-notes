@@ -9,4 +9,4 @@ Growth Mindset is the state of thought where you can develop your abilities thro
 - Reminder 2
 - Reminder 3
 
-[Link to my GitHub portfolio](https://github.com/DocHolliday13x)
+Link to my [GitHub Portfolio](https://github.com/DocHolliday13x)
