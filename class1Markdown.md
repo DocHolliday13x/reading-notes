@@ -13,4 +13,4 @@ I have almost NO prior experience using GitHub. Yet, Markdown is a tool that I f
 
 ### Things I Would Like to Know More About
 
-
+I need to practice implementing the tools available. I would like to get to a point where I can effectively alter the appearance of my webpage, such as implement a theme, add images, and simply make my notes more appealing to the eye. 
