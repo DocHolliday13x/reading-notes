@@ -93,3 +93,5 @@ You have to give these tags additional information in order for them to do their
 href attributes = additional information with an assigned value.
 
 <a href= "url-goes-here"></a>
+
+We have the opening tag, the content, and our closing tag.
