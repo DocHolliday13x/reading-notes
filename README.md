@@ -16,7 +16,7 @@ Email: rking1323@gmail.com
 
 ### Table of Contents
 
-- [102 - 1](https://docholliday13x.github.io/reading-notes/class1Markdown)
+- [102 - 1](https://docholliday13x.github.io/reading-notes/Class102/class1Markdown)
 
 - [102 - 2](https://docholliday13x.github.io/reading-notes/class2Markdown)
 
@@ -31,3 +31,5 @@ Email: rking1323@gmail.com
 - [102 - 7](https://docholliday13x.github.io/reading-notes/class7Markdown)
 
 - [102 - 8](https://docholliday13x.github.io/reading-notes/class8Markdown)
+
+- [201 - 01](https://docholliday13x.github.io/reading-notes/Class201/class01)
