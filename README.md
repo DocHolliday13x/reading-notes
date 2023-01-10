@@ -16,6 +16,6 @@ Email: rking1323@gmail.com
 
 ### Table of Contents
 
-- [Class 102](https://docholliday13x.github.io/reading-notes/Class102)
+- [Class 102](https://docholliday13x.github.io/reading-notes/Class-102)
 
-- [Class 201](https://docholliday13x.github.io/reading-notes/Class201)
+- [Class 201](https://docholliday13x.github.io/reading-notes/Class-201)
