@@ -16,20 +16,6 @@ Email: rking1323@gmail.com
 
 ### Table of Contents
 
-- [102 - 1](https://docholliday13x.github.io/reading-notes/Class102/class1Markdown)
+- [Class 102](https://docholliday13x.github.io/reading-notes/Class102)
 
-- [102 - 2](https://docholliday13x.github.io/reading-notes/class2Markdown)
-
-- [102 - 3](https://docholliday13x.github.io/reading-notes/class3Markdown)
-
-- [102 - 4](https://docholliday13x.github.io/reading-notes/class4Markdown)
-
-- [102 - 5](https://docholliday13x.github.io/reading-notes/class5Markdown)
-
-- [102 - 6](https://docholliday13x.github.io/reading-notes/class6Markdown)
-
-- [102 - 7](https://docholliday13x.github.io/reading-notes/class7Markdown)
-
-- [102 - 8](https://docholliday13x.github.io/reading-notes/class8Markdown)
-
-- [201 - 01](https://docholliday13x.github.io/reading-notes/Class201/class01)
+- [Class 201](https://docholliday13x.github.io/reading-notes/Class201)
