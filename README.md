@@ -29,7 +29,7 @@ Growth Mindset is the state of thought where you can develop your abilities thro
 
 ### Table of Contents
 
-* [Class 1]()
+* [Class 1](https://docholliday13x.github.io/reading-notes/class1Markdown/)
 
 * [Class 2]()
 
