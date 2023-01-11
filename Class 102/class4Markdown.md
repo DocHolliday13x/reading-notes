@@ -94,4 +94,4 @@ href attributes = additional information with an assigned value.
 
 <a href= "url-goes-here"></a>
 
-We have the opening tag, the content, and our closing tag.
+Here we have the opening tag, the content, and our closing tag.
