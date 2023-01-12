@@ -151,6 +151,8 @@ if (userName == "ryan") {
 console.log("Welcome to Bolivia " + userName);
 //
 
+#### Things I Would Like to Know More About
 
+Maybe in time, I will be able to memorize most of these operators, but as of right now there are soooooo many. I will have to reference the MDN often until I get the hang of these things.
 
 
