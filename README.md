@@ -10,9 +10,9 @@ Link to my [GitHub Portfolio](https://github.com/DocHolliday13x)
 
 Email: rking1323@gmail.com
 
-## Table of Contents
+# Table of Contents
 
-**My 102 Notes**.
+## **My 102 - Intro to Software Development Notes**.
 
 - [Class 01](Class102/class1Markdown.md)
 - [Class 02](Class102/class2Markdown.md)
@@ -24,7 +24,7 @@ Email: rking1323@gmail.com
 - [Class 08](Class102/class8Markdown.md)
 - [Growth Mindset](Class102/growthMindset.md)
 
-**My 201 Notes**.
+## **My 201 - Foundations of Software Development Notes**.
 
 - [Class 01](Class201/class01.md)
 - [Class 02](Class201/class02.md)
@@ -41,3 +41,7 @@ Email: rking1323@gmail.com
 - [Class 13](Class201/class13.md)
 - [Class 14](Class201/class14.md)
 - [Class 15](Class201/class15.md)
+
+## **My 301 - Intermediate Software Development Notes**
+
+## **My 401 - Advanced Software Development Notes**
