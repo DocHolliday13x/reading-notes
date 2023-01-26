@@ -12,7 +12,7 @@ Email: rking1323@gmail.com
 
 # Table of Contents
 
-## **My 102 - Intro to Software Development Notes**.
+## **My 102 - Intro to Software Development Notes**
 
 - [Class 01](Class102/class1Markdown.md)
 - [Class 02](Class102/class2Markdown.md)
@@ -24,7 +24,7 @@ Email: rking1323@gmail.com
 - [Class 08](Class102/class8Markdown.md)
 - [Growth Mindset](Class102/growthMindset.md)
 
-## **My 201 - Foundations of Software Development Notes**.
+## **My 201 - Foundations of Software Development Notes**
 
 - [Class 01](Class201/class01.md)
 - [Class 02](Class201/class02.md)
