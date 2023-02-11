@@ -1,6 +1,7 @@
 # Class 08 Reading Assignment
 
 ## Learn CSS - Flexbox
+
 ![Learn CSS - Flexbox](https://web.dev/learn/css/flexbox/)
 
 1. Flexbox is designed for one-dimensional content. Explain what this means.
@@ -10,6 +11,7 @@
 3. How can using certain properties of flexbox negatively impact accessbility?
 
 ## CSS Layout - Flexbox
+
 ![CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 1. What are some advantages of using flexbox over float?
@@ -17,7 +19,7 @@
 2. How does this topic connect with your long term goals?
 
 ## Bookmark and Review
-![Learn CSS - Layout](https://web.dev/learn/css/layout/)
 
+![Learn CSS - Layout](https://web.dev/learn/css/layout/)
 
 ## Things I Would Like to Know More About
