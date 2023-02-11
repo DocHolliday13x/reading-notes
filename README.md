@@ -1,6 +1,6 @@
 # About Me
 
-![Not Scared](https://user-images.githubusercontent.com/99107900/211398914-8ddec33c-9fd9-43cd-8b42-13f1c2962582.jpg)
+![Not Scared](img/Not%20Scared.jpg)
 
 My name is Ryan Eastman!
 I am a United States Navy Veteran 🧜🏼‍♂️ and have recently embarked on the path of learning Software Development with a focus in JavaScript.
