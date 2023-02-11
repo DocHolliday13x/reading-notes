@@ -1,6 +1,7 @@
 # Class 06 Reading Assignment
 
 ## JavaScript Object Basics
+![JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 1. How would you describe an object to a non-technical friend yoiu grew up with?
 
@@ -15,10 +16,15 @@
 
 
 ## Introduction to the DOM
+![Introduction to the Dom](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 1. What is the DOM?
 
 2. Briefly describe the relationship between the DOM and JavaScript:
 
+
+## Bookmark and Review
+![Understanding Problem Domain](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+![Difference Between Primitive Values and Object References](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 ## Things I Want to Know More About
