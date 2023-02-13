@@ -2,9 +2,9 @@
 
 ## HTML Froms
 
-![HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-![Your First Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
-![How to Structure a Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+[HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+[Your First Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+[How to Structure a Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 
 1. Why are forms so important in web development?
 
@@ -19,8 +19,8 @@
 
 ## Learn JavaScript
 
-![Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-![Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+[Learn JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 1. How would you describe events to a non-technical friend?
 
@@ -34,7 +34,7 @@
 
 ## Bookmark and Review
 
-![HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
-![Event Reference and Listings](https://developer.mozilla.org/en-US/docs/Web/Events)
+[HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+[Event Reference and Listings](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 ## Things I would Like to Know More About

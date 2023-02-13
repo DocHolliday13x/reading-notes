@@ -2,7 +2,7 @@
 
 ## Learn CSS - Flexbox
 
-![Learn CSS - Flexbox](https://web.dev/learn/css/flexbox/)
+[Learn CSS - Flexbox](https://web.dev/learn/css/flexbox/)
 
 1. Flexbox is designed for one-dimensional content. Explain what this means.
 
@@ -12,7 +12,7 @@
 
 ## CSS Layout - Flexbox
 
-![CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+[CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
 1. What are some advantages of using flexbox over float?
 
@@ -20,6 +20,6 @@
 
 ## Bookmark and Review
 
-![Learn CSS - Layout](https://web.dev/learn/css/layout/)
+[Learn CSS - Layout](https://web.dev/learn/css/layout/)
 
 ## Things I Would Like to Know More About

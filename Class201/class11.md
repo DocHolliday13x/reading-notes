@@ -2,7 +2,7 @@
 
 ## Video and Audio Content
 
-![Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
 
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000's.
 
@@ -14,7 +14,7 @@
 
 ## A Complete Guide to Grid
 
-![Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 1. How does grid layout differ from flex?
 
@@ -22,7 +22,7 @@
 
 ## Responsive Images
 
-![Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 
@@ -32,5 +32,5 @@
 
 ## Bookmark and Review
 
-![Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
-![Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+[Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+[Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)

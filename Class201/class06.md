@@ -2,7 +2,7 @@
 
 ## JavaScript Object Basics
 
-![JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 1. How would you describe an object to a non-technical friend yoiu grew up with?
 An object is a collection of related data and/or functionality. They usually consist of several variables and functions (properties/methods when inside objects). It's easiest to think of it like a key with an assigned value.
@@ -25,7 +25,7 @@ Here, "this" is refering to the method definitions name and age. It's advantage 
 
 ## Introduction to the DOM
 
-![Introduction to the Dom](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+[Introduction to the Dom](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 1. What is the DOM?
 Document Object Model, the data representation of the objects that comprise the structure and content of a document on the web.
@@ -35,8 +35,8 @@ The DOM is not a programming language, but without it, the JavaScript language w
 
 ## Bookmark and Review
 
-![Understanding Problem Domain](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
-![Difference Between Primitive Values and Object References](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+[Understanding Problem Domain](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+[Difference Between Primitive Values and Object References](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 ## Things I Want to Know More About
 
