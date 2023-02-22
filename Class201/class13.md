@@ -5,12 +5,16 @@
 ## Local Storage and How to Use It On Websites
 
 1. Why would a developer use local storage for a web application?
+
 the state won't be reset every time you open an application
 
 2. What Information should not be stored in local storage?
+
 objects that have not been converted to strings
 
-3. Local storage can store what type of data? How would you convert it to that type before storing?
+3. Local storage can store what type of data? How would you convert it to
+
+that type before storing?
 strings. use JSON.stringify() and JSON.parse() methods to convert.
 
 ### Bookmark/Skim
