@@ -1,10 +1,10 @@
 # Class 14 Reading Assignment
 
-[CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+* [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
-[CSS Transitions and Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+* [CSS Transitions and Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
-[8 Simple CSS3 Transitions...](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+* [8 Simple CSS3 Transitions...](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
 
 ## CSS Transforms
 
@@ -26,10 +26,10 @@
 
 ### Bookmark/Skim
 
-[Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
+* [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR)
 
-[6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)
+* [6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV)
 
-[CSS3 Animation Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
+* [CSS3 Animation Keyframes](https://codepen.io/akshaychauhan/pen/dyBqVo)
 
-[404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+* [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
