@@ -34,23 +34,40 @@ A key is a special string attribute included when creating lists of elments. The
 
 1. What is the spread operator?
 
-
+A useful and quick syntax for adding itmes to arrays, combining objects or arrays, and spreading an array out into a function's arguments.
 
 2. List 4 things that the spread operator can do.
 
-
+   1. Add items to arrays
+   2. Combine objects/arrays
+   3. Copying an array
+   4. Adding to state in REACT
 
 3. Give an example of using the spread operator to combine two arrays.
 
+[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
+[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
 
+const hello = {hello: "😋😛😜🤪😝"}
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
+
+const helloWorld = {...hello,...world}
+console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
 
 4. Give an example of using the spread operator to add a new item to an array.
 
-
+const fewFruit = ['🍏','🍊','🍌']
+const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
+console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
 
 5. Give an example of using the spread operator to combine two objects into one.
 
-
+const objectOne = {hello: "🤪"}
+const objectTwo = {world: "🐻"}
+const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
+console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
+const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
+objectFour.laugh() // 😂😂😂😂😂
 
 ### How to Pass Functions Between Components
 
