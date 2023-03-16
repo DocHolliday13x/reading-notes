@@ -29,7 +29,7 @@ You have to bind it in the constructor by using classes and arrow functions.
 
 1. Why would we use a ternary operator?
 
-It can shorten your if statements into one line of code. 
+It can shorten your if statements into one line of code. It's a shorthand way of writing if-else statements.
 
 2. Rewrite the following statement using a ternary statement:
 if(x===y){
@@ -37,6 +37,8 @@ if(x===y){
 } else {
   console.log(false);
 }
+
+ternary statement: x === y ? console.log(true) : console.log(false);
 
 
 
