@@ -10,7 +10,7 @@
 
 ### Reading Statement
 
-Why this topic matters as it relates to the material I am studying:
+Why this topic matters as it relates to the material I am studying: We are going to be using Node.js a lot in the future, so it's important that we understand what exactly it is as well as what it is doing. And paired programming is often how you will work in the industry, so getting some time as the driver and as the navigator is important so that we can develop a good workflow for pair programming not only in class, but when we are realeased into the world of software development.
 
 ### Introduction to NODE.js
 
@@ -50,9 +50,20 @@ Why this topic matters as it relates to the material I am studying:
 
 1. What are the 6 reasons for paired programming?
 
+   1. Greater Efficiency
+   2. Engaged Collaboration
+   3. Learning From Fellow Fellow Students
+   4. Social Skills
+   5. Job Interview Readiness
+   6. Work Environment Readiness
+
 2. In your experience, which of these reasons have you found most beneficial?
 
+   * Learning from fellow students. Since everyone has differing approaches to solving the same problems, it provides an opportunity to observe different approaches and solutions than your own. You also provide the same benefit to your team members, providing them a learning opportunity as well. This promotes growth all around and can help yeild the best possible results.
+
 3. How does pair programming work?
+
+   * It consists of two roles: Driver and Navigator. The driver is responsible for typing the code, managing the text editor, switching files and version control. The Navigator is responsible for verbally guiding the driver by thinking about the big picture, while simultaneously watching for bugs and errors that may need to be resolved.
 
 #### Things I Would Like to Know More About
 
