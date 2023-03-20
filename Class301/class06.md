@@ -67,4 +67,4 @@ Why this topic matters as it relates to the material I am studying: We are going
 
 #### Things I Would Like to Know More About
 
-1. 
+1. NODE.js seems like a very large source of information and tools. It's going to take a lot of exposure and time spent utilizing node in order to build a strong foundation with it.
