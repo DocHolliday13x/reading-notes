@@ -11,7 +11,7 @@
 
 ### Reading Statement
 
-Why this topic matters as it relates to the material I am studying:
+Why this topic matters as it relates to the material I am studying: This material is a great representation of how REST works and how APIs solve a lot of the issues we had with systems communicating with one another in the past. I don't fully understand all of it, but it's a step in the right direction.
 
 ### How I Explained REST to My Brother
 
