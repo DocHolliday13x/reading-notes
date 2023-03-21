@@ -43,13 +43,13 @@ Why this topic matters as it relates to the material I am studying: This materia
 
 ### API Keys
 
-1. Geocoding API - Did you get your API key?
+1. Geocoding API - Did you get your API key? YES
 
-2. Weather Bit API - Did you get your API key?
+2. Weather Bit API - Did you get your API key? YES, but it's provisioning for 30 minutes.
 
-3. Yelp API - Did you get your API key?
+3. Yelp API - Did you get your API key? NO, I can't figure out how to.
 
-4. The Movie DB API Docs - Did you get your API key?
+4. The Movie DB API Docs - Did you get your API key? NO, because if I don't use it, it will expire after 60 minutes.
 
 #### Things I Would Like to Know More About
 
