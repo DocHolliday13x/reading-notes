@@ -7,6 +7,8 @@
 
 ### Reading Statement
 
+Why this topic matters as it relates to the material I am studying:
+
 ### Functional Programming Concepts
 
 1. What is functional programming?
