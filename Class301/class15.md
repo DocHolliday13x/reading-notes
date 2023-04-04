@@ -31,7 +31,7 @@
    11. The user sees a successfully completed transaction occurring.
    12. OAuth is not the first authentication/authorization system to work this way on behalf of the end-user. In fact, many authentication systems, notably Kerberos, work similarly. What is special about OAuth is its ability to work across the web and its wide adoption. It succeeded with adoption rates where previous attempts failed (for various reasons).
 
-4. *What is OpenID?* OpenID is about authentication. It's for humans logging into machines whereas OAuth is for machines logging into machines on behalf of humans. The idea, in the early days of Web 2.0, was that rather than having multiple logins for multiple websites, OpenID would serve as a single sign-in, vouching for the identities of users.
+4. *What is OpenID?* OpenID is about authentication: as a commenter on StackOverflow has it, “OpenID is for humans logging into machines, OAuth is for machines logging into machines on behalf of humans.” OpenID allows you to use an existing account to sign in to multiple websites, without needing to create new passwords. This is done through an authentication protocol that relies on open standards and works over HTTP.
 
 ### Authorization and Authenctication Flows
 
