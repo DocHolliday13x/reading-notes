@@ -1,6 +1,9 @@
 # Class 1 Reading: Node Ecosystem
 
-## Resources:
+## Resources
+
+- [Intro to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [Class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-01/)
 
 ### Introduction to Node.js on sitepoint.com
 
