@@ -105,3 +105,4 @@ Email: rking1323@gmail.com
 - [Bash Command Line Notes](Class401/prep:bashCommandLineTutorialNotes.md)
 - [Data Structures and Algorithms](Class401/prep:dataStructuresAndAlgorithms.md)
 - [Engineering](Class401/prep:engineering.md)
+- [SQL Bolt](Class401/prep:introToSQL.md)
