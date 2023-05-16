@@ -55,3 +55,5 @@
 #### Things I Want to Know More About
 
 1. Why it's necessary to have a Things I Want to Know More About section on a page of notes that also has a Reflection section. Repetition is close to godliness, I suppose.
+
+![Not Doing It](https://media.giphy.com/media/d6n8f7Hs3ZQZQd8rSl/giphy.gif)
