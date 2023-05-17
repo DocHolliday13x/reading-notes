@@ -64,4 +64,6 @@
 
 #### Things I Want to Know More About
 
-1. I want to know more about bcrypt and how it works.
+1. I want to know more about bcrypt and how it works. Digital security is critical for full stack applications, and I want to know more about how to implement it.
+
+![KickstartMyHeart](https://media.giphy.com/media/xvvpqYZHzH2SqScLCa/giphy-downsized-large.gif)
