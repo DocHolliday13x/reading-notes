@@ -52,3 +52,5 @@
     - My learning goals after reading and reviewing the class README are to learn more about JWTs and how to use them.
 
 #### Things I Would Like to Know More About
+
+- ![tokens](https://media.giphy.com/media/GNvWw0pDL6QRW/giphy.gif)
