@@ -18,7 +18,7 @@ Some ideas for how you might want to teach:
 - Create a vocabulary/definition list
 - Write a cheat sheet
 - Create a diagram / visualization / cartoon of a topic
--Anthropomorphize the concepts, and write a conversation between them
+- Anthropomorphize the concepts, and write a conversation between them
 - Build a map of the information
 - Construct a fill-in-the-blank worksheet for the topic
 
