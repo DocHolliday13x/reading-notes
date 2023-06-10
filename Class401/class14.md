@@ -1,4 +1,4 @@
-# Class 00 Reading: Topic
+# Class 00 Reading: Event Driven Architecture
 
 ## Resources
 
@@ -20,7 +20,7 @@
 
 1. What are your learning goals after reading and reviewing the class README?
 
-    - [ ] Goal 1:
+    - [ ] Goal 1: I want to learn more about event driven programming and how to implement it in my projects.
 
 #### Things I Want to Know More About
 
