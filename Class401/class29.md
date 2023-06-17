@@ -38,7 +38,6 @@
 
 #### Things I Want to Know More About
 
-1. Question 1?
-    - Answer 1.
+1. I need to learn more about reducers, actions, and dispatches. I also need to learn more about managing state using `useReducer()`. Because as of right now, I am still confused about all of it.
 
 ![GIF](https://media.giphy.com/media/wYXBg45usZ6T4MqxM8/giphy.gif)
