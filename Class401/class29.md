@@ -1,64 +1,44 @@
-# Class 00 Reading: Topic
+# Class 29 Reading: Advanced State with Reducers
 
 ## Resources
 
-- []()
-- []()
-- []()
+- [Extracting State Logic Into a Reducer](https://react.dev/learn/extracting-state-logic-into-a-reducer)
 
 ## Topic 1
 
-1. Question 1?
-    - Answer 1.
+1. What is the motivation for a reducer?
 
-2. Question 2?
-    - Answer 2.
+   - A reducer's motivation is to take in a state and an action and return a new state.
 
-3. Question 3?
-    - Answer 3.
+2. What are actions in the context of a reducer? How are they different than setting state directly?
 
-## Topic 2
+   - Actions are objects that contain a type and a payload. They are different than setting state directly because they are passed into the reducer and the reducer returns a new state.
 
-1. Question 1?
-    - Answer 1.
+3. What common list operation is `useReduce()` nameed for, and why?
 
-2. Question 2?
-    - Answer 2.
+   - `useReduce()` is named for the reduce method. It is named this because it takes in a state and an action and returns a new state.
 
-3. Question 3?
-    - Answer 3.
+4. When should you switch from `useState()` to `useReducer()`?
 
-## Topic 3
-
-1. Question 1?
-    - Answer 1.
-
-2. Question 2?
-    - Answer 2.
-
-3. Question 3?
-    - Answer 3.
+   - You should switch from `useState()` to `useReducer()` when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one. You should also switch when you have a lot of actions.
 
 ### Bookmark and Review
 
-- []()
+- [useReducer Hook](https://react.dev/reference/react/useReducer)
+- [Keeping Components Pure](https://react.dev/learn/keeping-components-pure)
+- [Queueing a Series of State Updates](https://react.dev/learn/queueing-a-series-of-state-updates)
 
 ### Reflection
 
-- [Class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-00/)
+- [Class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-29/)
 
 1. What are your learning goals after reading and reviewing the class README?
 
-    - [ ] Goal 1:
-    - [ ] Goal 2:
-    - [ ] Goal 3:
-    - [ ] Goal 4:
-    - [ ] Goal 5:
-    - [ ] Goal 6:
+    - [ ] Goal 1: I struggled with state in the 301 course, and now it's getting even more complex. I aim to have the ability to describe and define reducers, actions, and dispatches, and to manage state using `useReducer()`.
 
 #### Things I Want to Know More About
 
 1. Question 1?
     - Answer 1.
 
-![GIF]()
+![GIF](https://media.giphy.com/media/wYXBg45usZ6T4MqxM8/giphy.gif)
