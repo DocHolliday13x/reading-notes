@@ -1,10 +1,11 @@
-# Class 00 Reading: Topic
+# Class 30 Reading: Hash Tables
 
 ## Resources
 
-- []()
-- []()
-- []()
+- [Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+- [What is a Hash Table?](https://www.youtube.com/watch?v=MfhjkfocRR0)
+- [Basics of a Hash Table](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+- [Hash Table Wiki](https://en.wikipedia.org/wiki/Hash_table)
 
 ## Topic 1
 
