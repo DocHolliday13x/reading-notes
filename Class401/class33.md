@@ -81,6 +81,6 @@
 
 ### Things I Want to Know More About
 
-1. I would like to see better documentation describing the difference between the `react-cookie` library and the `react-cookies` component. 
+1. I would like to see better documentation describing the difference between the `react-cookie` library and the `react-cookies` component.
 
 ![GIF](https://media.giphy.com/media/bAlYQOugzX9sY/giphy.gif)
