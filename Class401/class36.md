@@ -43,4 +43,4 @@
 
     - [ ] Goal 1: Practice Adj Matrix to Adj List conversion for the upcoming whiteboard challenge.
 
-![GIF](https://media.giphy.com/media/4qbCWW4WwDpoYtzj6S/giphy.gif)
+- ![Graph GIF](https://media.giphy.com/media/3og0IExSrnfW2kUaaI/giphy.gif)
