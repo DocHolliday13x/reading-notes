@@ -89,7 +89,7 @@ Email: <rking1323@gmail.com>
 - [Class 31 - Context API](Class401/class31.md)
 - [Class 32 - Context API: Behaviors](Class401/class32.md)
 - [Class 33 - `<Login />` and `<Auth />`](Class401/class33.md)
-- [Class 34](Class401/class34.md)
+- [Class 34 - API Integration](Class401/class34.md)
 - [Class 35](Class401/class35.md)
 - [Class 36](Class401/class36.md)
 - [Class 37](Class401/class37.md)
