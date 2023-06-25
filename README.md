@@ -8,7 +8,7 @@ I look forward to my experience with Code Fellows and all my classmates as we pr
 
 Link to my [GitHub Portfolio](https://github.com/DocHolliday13x)
 
-Email: rking1323@gmail.com
+Email: <rking1323@gmail.com>
 
 ## Table of Contents
 
