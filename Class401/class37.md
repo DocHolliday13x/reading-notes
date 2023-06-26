@@ -1,4 +1,4 @@
-# Class 00 Reading: Topic
+# Class 37 Reading: Topic
 
 ## Resources
 
