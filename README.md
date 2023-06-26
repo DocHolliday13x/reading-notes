@@ -94,7 +94,7 @@ Email: <rking1323@gmail.com>
 - [Class 36 - Application State with Redux](Class401/class36.md)
 - [Class 37 - Redux: Combinded Reducers](Class401/class37.md)
 - [Class 38 - Redux: Asynchronous Actions](Class401/class38.md)
-- [Class 39](Class401/class39.md)
+- [Class 39 - Redux: Additional Topics](Class401/class39.md)
 - [Class 40](Class401/class40.md)
 - [Bash Command Line Notes](Class401/prep:bashCommandLineTutorialNotes.md)
 - [Data Structures and Algorithms](Class401/prep:dataStructuresAndAlgorithms.md)
