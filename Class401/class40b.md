@@ -1,4 +1,4 @@
-# Class 00 Reading: Topic
+# Class 40b Reading: OSS Contributions
 
 ## Resources
 

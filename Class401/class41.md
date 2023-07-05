@@ -1,4 +1,4 @@
-# Class 00 Reading: Topic
+# Class 41 Reading: Gatsby, Next.js, and other JS Frameworks
 
 ## Resources
 
