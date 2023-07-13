@@ -2,63 +2,30 @@
 
 ## Resources
 
-- []()
-- []()
-- []()
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [GitHub's Guide to Open Source](https://github.com/open-source)
+- [What Motivates a Developer to Contribute to Open-Source Software?](https://clearcode.cc/blog/why-developers-contribute-open-source-software/)
+- [Review - List of Beginner-Friendly Projects](https://github.com/search?q=label%3Agood-first-issue+archived%3Afalse&type=pullrequests)
+- [Review - Call for Code: Open Source for Good](https://developer.ibm.com/callforcode/)
 
-## Topic 1
+## First Timers Only
 
-1. Question 1?
-    - Answer 1.
+## GitHub's Guide to Open Source
 
-2. Question 2?
-    - Answer 2.
+## What Motivates a Developer to Contribute to Open-Source Software?
 
-3. Question 3?
-    - Answer 3.
+## Review - List of Beginner-Friendly Projects
 
-## Topic 2
+## Review - Call for Code: Open Source for Good
 
-1. Question 1?
-    - Answer 1.
+## Summary
 
-2. Question 2?
-    - Answer 2.
+Contributing to open-source projects on GitHub is a valuable way to engage with the global developer community and make a positive impact on the software ecosystem. By contributing to projects hosted on GitHub, developers can collaborate, share their expertise, and help improve the functionality and quality of widely used software. Whether it's fixing bugs, adding new features, or enhancing documentation, contributing to open-source projects allows developers to showcase their skills, gain experience working on real-world projects, and establish a reputation within the community. By joining forces with like-minded individuals, developers can collectively drive innovation, foster collaboration, and create software that benefits users worldwide.
 
-3. Question 3?
-    - Answer 3.
+### Things I Want to Know More About
 
-## Topic 3
+1. Making meaningful contributions to open source projects.
 
-1. Question 1?
-    - Answer 1.
-
-2. Question 2?
-    - Answer 2.
-
-3. Question 3?
-    - Answer 3.
-
-### Bookmark and Review
-
-- []()
-
-### Reflection
-
-- [Class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-00/)
-
-1. What are your learning goals after reading and reviewing the class README?
-
-    - [ ] Goal 1:
-    - [ ] Goal 2:
-    - [ ] Goal 3:
-    - [ ] Goal 4:
-    - [ ] Goal 5:
-    - [ ] Goal 6:
-
-#### Things I Want to Know More About
-
-1. Question 1?
-    - Answer 1.
+   - I'm going to have to explore these resources more to try and find a project that I can contribute to. I'm not sure what I can contribute, but I'm sure there's something. Hopefully I can find something that provides guidance on how to contribute to the project.
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiMHM0YzloMzhoNncwdXRxbTh3aWMzNzUyODhoeXd5aDBlcjV0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nqU5J6MsY13OQd8x0L/giphy.gif)
