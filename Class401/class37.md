@@ -1,4 +1,4 @@
-# Class 37 Reading: Topic
+# Class 37 Reading: Redux - Combined Reducers
 
 ## Resources
 
